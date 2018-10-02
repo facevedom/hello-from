@@ -1,4 +1,4 @@
-# Hello from
+# Hello From
 Almost hello world, but not really
 
 ## Description
@@ -6,7 +6,7 @@ Displays
 
 > Hello from `IP`
 
-Being `IP`, well, the server's IP address.
+Being `IP`, well, the server's IP address
 
 ## Getting it up and running
 ### Preparing
@@ -27,3 +27,5 @@ Navigate to `localhost:5000` or `<your_IP>:5000` using your web browser
 - Python 2
 - [Flask](http://flask.pocoo.org/)
 
+### Authors
+- Felipe Acevedo ([facevedom@github](https://github.com/facevedom))
