@@ -9,17 +9,19 @@ Displays
 Being `IP`, well, the server's IP address.
 
 ## Getting it up and running
-### Prerequisites
+### Preparing
 - Install Python 2.x (Should already be installed on Linux servers)
 - Install Pip
 - Install required packages from requirements file
 ```
 pip install -r requirements.txt
 ```
-- Run the server
+### Running
 ```
 FLASK_APP=hello_from.py flask run
 ```
+### Using
+Navigate to `localhost:5000` or `<your_IP>:5000` using your web browser
 
 ## Built with
 - Python 2
