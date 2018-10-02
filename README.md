@@ -27,5 +27,5 @@ Navigate to `localhost:5000` or `<your_IP>:5000` using your web browser
 - Python 2
 - [Flask](http://flask.pocoo.org/)
 
-### Authors
+## Authors
 - Felipe Acevedo ([facevedom@github](https://github.com/facevedom))
